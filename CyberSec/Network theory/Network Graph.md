@@ -1,0 +1,16 @@
+Los apuntes estarán divididos a partir de la estructura de estudio planteada por ComptIA Network+. 
+
+* [[Computer Network Fundamentals]]
+* [[The OSI Reference Model]]
+* [[Network Components]]
+* [[Ethernet Technology]]
+* [[IPv4 and IPv6 Addresses]]
+* [[Routing IP Packets]]
+* [[Wide Area Networks (WANs)]]
+* [[Wireless Technologies]]
+* [[Network Optimization]]
+* [[Command-Line Tools]]
+* [[Network Management]]
+* [[Network Security]]
+* [[Network Policies & Best Practices]]
+* [[Network Troubleshooting]]
