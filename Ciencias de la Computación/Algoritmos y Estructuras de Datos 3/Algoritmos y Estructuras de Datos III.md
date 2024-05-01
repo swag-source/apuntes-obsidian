@@ -5,6 +5,8 @@ Indice organizativo para la materia Algoritmos y Estructura de Datos III
 * [[Divide & Conquer (D&C)]]
 * [[Algoritmos Greedy]]
 * [[Teoría de Grafos]]
+* [[Árboles]]
+* 
 
 **Prácticas**
 * [[Práctica 3 - Top Down & Bottom Up]]
